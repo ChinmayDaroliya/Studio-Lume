@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import AnimatedSection from "@/components/AnimatedSection";
-import founderImg from "@/assets/founder.jpg";
+import founderImg from "@/assets/priyanshImg.jpeg";
 
 const About = () => {
   return (
@@ -87,11 +87,11 @@ const About = () => {
             <div className="max-w-lg">
   <p className="text-xs tracking-widest uppercase text-muted-foreground mb-4">Founder</p>
   <h2 className="font-heading text-3xl md:text-4xl mb-2">Priyansh Vyas</h2>
-  <p className="text-muted-foreground text-sm mb-8">Architecture Student & Founder</p>
+  <p className="text-muted-foreground text-sm mb-8">Principal Architect & Founder</p>
   
   <div className="space-y-5 text-muted-foreground leading-relaxed">
         <p>
-          Priyansh Vyas is an architecture student and the founder of Studio Lume, a conceptual design
+          Priyansh Vyas is an Principal Architect and the founder of Studio Lume, a conceptual design
           studio created as part of his academic exploration in architecture and spatial design.
         </p>
 
